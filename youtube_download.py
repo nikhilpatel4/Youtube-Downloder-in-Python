@@ -1,4 +1,4 @@
-from tkinter import *
+from tk import *
 from pytube import YouTube
 
 root = Tk()
